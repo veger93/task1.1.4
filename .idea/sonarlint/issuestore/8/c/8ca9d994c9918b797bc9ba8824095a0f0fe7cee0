@@ -1,0 +1,27 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8âŞŞ”Š2J$90ab6e5d-9088-4e33-8e29-0fe195d899cc
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8äŞŞ”Š2J$16556612-5227-4b92-960e-7f3a902ab244
+	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8åŞŞ”Š2J$65263890-66a9-428d-9964-fbe375bbed5b
+	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æŞŞ”Š2J$b5419582-639e-4a5e-87a7-bd150ffb9352
+z
+java:S25895"7Remove this expression which always evaluates to "true"(×´ÒÛ8Íõñ•Š2J$e0105daf-301e-4a59-a286-2840b171d637
+z
+java:S25898"7Remove this expression which always evaluates to "true"(¡ææú8Ìõñ•Š2J$16971c2d-912e-4c01-988f-ac0b531be91e
+z
+java:S2589`"7Remove this expression which always evaluates to "true"(¡ææú8Ìõñ•Š2J$1ba420a3-dd2c-4259-a308-ee13970ddb29
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü‰‡øÿÿÿÿ8èƒà”Š2J$6136b34f-cb37-4a5c-b750-d7c001242447
+{
+java:S1117"8Rename "conn" which hides the field declared at line 13.(ÜÂ§¤8–¦ò•Š2J$e3cae203-db17-45bc-bd69-b125b8d13042
+{
+java:S1117'"8Rename "conn" which hides the field declared at line 13.(ÜÂ§¤8Øéˆ–Š2J$2c77d786-20fb-4bbf-87f6-bf570b9f8d78
+~	java:S125+"<This block of commented-out lines of code should be removed.(öõ­Ğ8¢©½•Š2J$a377f763-b85b-48db-bdfd-61a409f71be0
+b
+java:S6905K"Don't use the query "SELECT *".(‘”›Ú8ûŞŞ”Š2J$033633c3-d3e0-4763-bf4f-d28257a52ee9
+~	java:S125W"<This block of commented-out lines of code should be removed.(Ú¤™¼8şŞŞ”Š2J$e43f28ad-1dbc-4839-904d-56ee148a1733
+{
+java:S1117h"8Rename "conn" which hides the field declared at line 13.(ÜÂ§¤8ä¡–Š2J$4e83a038-2a75-4cc0-bd61-3cce2bb61465
+
+java:S1128">Remove this unused import 'com.sun.xml.bind.v2.model.core.ID'.(Ö®á8æõñ•Š2J$29ee837b-5aea-49be-89af-4db40186427f
+}
+java:S1128":Remove this unused import 'javax.lang.model.element.Name'.(°¦£Â8æõñ•Š2J$b028b025-473a-4553-a50a-dac80d809fb4
