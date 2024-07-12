@@ -1,12 +1,6 @@
 
-	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ÏÙ­Š2J$548afb26-4634-4d9c-8815-520331e17422
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÍ„üúÿÿÿÿ8ÏÙ­Š2J$88bf5228-8cd7-4e92-89d5-552c0efbf595
-~	java:S125"<This block of commented-out lines of code should be removed.(ÿ€¦8’ÏÙ­Š2J$d65ca18a-f351-4eb2-89ac-867744a9abaa
-m	java:S106"+Replace this use of System.out by a logger.(Ğ¹¶ú8”ÏÙ­Š2J$3ed1c9b9-2083-4bda-a80b-aeddae6752b9
-l	java:S106"+Replace this use of System.out by a logger.(ƒÅ
-8•ÏÙ­Š2J$00d3bb7a-681b-478b-8b20-535151121b8d
-r	java:S106!"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8–ÏÙ­Š2J$289ddf9e-359e-43cd-89fe-438960311777
-m	java:S106&"+Replace this use of System.out by a logger.(ºõ¦¿8—ÏÙ­Š2J$d89fb696-9ef5-4be0-bd47-d938cb39844e
-l	java:S106+"+Replace this use of System.out by a logger.(®ì©.8˜ÏÙ­Š2J$6bd40a3f-b304-4b43-a44a-2885c473a64d
-m	java:S1065"+Replace this use of System.out by a logger.(İ‰†ü8›ÏÙ­Š2J$a8d0fabe-2eb2-460f-90bd-87d4e8ae508e
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çù¸àúÿÿÿÿ8†„®»Š2J$a1ab98e1-2221-4817-86e9-6b0081f62707
+r	java:S106"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8„®»Š2J$7d8ba03c-3e77-4c25-bd89-594f1500aacd
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8£™¹ÃŠ2J$60903fb8-b6c0-4050-a727-f4e9cb2d2182

@@ -1,18 +1,6 @@
 
-	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8šÒ¼¯Š2J$60e46364-8e57-49af-84d3-6bb333f3f2c7
-z
-java:S2589>"7Remove this expression which always evaluates to "true"(¡ææú8·Ò¼¯Š2J$09bceb76-b0a7-40a3-bb48-fc4770355b6f
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü‰‡øÿÿÿÿ8¹Ò¼¯Š2J$b770d009-169a-47fc-8f78-dbbe0102fe3a
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ïğÿûÿÿÿÿÿ8¼Ò¼¯Š2J$56da26a1-b145-4497-a899-81976a067b20
-r	java:S106"+Replace this use of System.out by a logger.(îŸıŞúÿÿÿÿ8ÂÒ¼¯Š2J$9f5e1ed9-18bb-4cc0-925f-dd67b184ed7d
-r	java:S106"+Replace this use of System.out by a logger.(ášô€úÿÿÿÿ8ÂÒ¼¯Š2J$445f6c20-ff88-4a43-a4ba-a6269477586c
-m	java:S106'"+Replace this use of System.out by a logger.(‡ÓÂ8ÄÒ¼¯Š2J$ba5bffac-fda9-4be2-b4b6-d6ff8d16498b
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8ï£ÆŠ2J$b66ecdbb-8487-417a-9aeb-84510288c26c
 b
-java:S6905P"Don't use the query "SELECT *".(‘”›Ú8ËÒ¼¯Š2J$d364ae5b-1d26-4f5c-b3eb-2d03b6ee7fa6
-r	java:S106_"+Replace this use of System.out by a logger.(‹¨²¶ÿÿÿÿÿ8ÌÒ¼¯Š2J$834b96c9-6a48-4a25-ba56-5e1eddc0b362
-~	java:S125n"<This block of commented-out lines of code should be removed.(Ö²óÉ8ÎÒ¼¯Š2J$d1648861-406c-45f1-9f50-41fd9aecbc59
-
-java:S1128">Remove this unused import 'com.sun.xml.bind.v2.model.core.ID'.(Ö®á8ÏÒ¼¯Š2J$df036fb0-0c8f-4e38-a224-766585dde285
-}
-java:S1128":Remove this unused import 'javax.lang.model.element.Name'.(°¦£Â8ÏÒ¼¯Š2J$6391db9e-bd92-4525-ab7c-5cabcd27c143
+java:S6905<"Don't use the query "SELECT *".(‘”›Ú8©ï£ÆŠ2J$868287b7-1f5b-41d1-9652-f2488415ccdf
+r	java:S106I"+Replace this use of System.out by a logger.(‹¨²¶ÿÿÿÿÿ8«ï£ÆŠ2J$7d0dc36c-4e17-457e-ac04-25ed9e829f43
