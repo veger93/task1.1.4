@@ -1,13 +1,12 @@
 
-	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8éü™—Š2J$8badfee8-1ae9-4a02-aadc-e52afc098eb1
-Ä
-java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ ¼Ş8•Ò˜—Š2J$632f1d20-033f-40b5-aa03-6b98fef574d7
+	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ÏÙ­Š2J$548afb26-4634-4d9c-8815-520331e17422
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÍ„üúÿÿÿÿ8•Ò˜—Š2J$db0c65ec-fabb-4854-b838-d88ed0c3126a
-~	java:S125"<This block of commented-out lines of code should be removed.(ÿ€¦8˜Ò˜—Š2J$af05a943-375b-48a6-9059-6a5ccc37849a
-r	java:S106"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8œÒ˜—Š2J$1f93c382-fc32-44ca-9c28-dabef7457bed
-s
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ŸÒ˜—Š2J$7cf51ef8-7c80-4765-bc9e-7a8da5b53cf7
-„
-java:S1128
-"ARemove this unused import 'java.sql.DriverManager.getConnection'.(£¶ÖŠ8ŸÒ˜—Š2J$f8e2398c-2af3-4d81-887f-dd36e1722de2
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÍ„üúÿÿÿÿ8ÏÙ­Š2J$88bf5228-8cd7-4e92-89d5-552c0efbf595
+~	java:S125"<This block of commented-out lines of code should be removed.(ÿ€¦8’ÏÙ­Š2J$d65ca18a-f351-4eb2-89ac-867744a9abaa
+m	java:S106"+Replace this use of System.out by a logger.(Ğ¹¶ú8”ÏÙ­Š2J$3ed1c9b9-2083-4bda-a80b-aeddae6752b9
+l	java:S106"+Replace this use of System.out by a logger.(ƒÅ
+8•ÏÙ­Š2J$00d3bb7a-681b-478b-8b20-535151121b8d
+r	java:S106!"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8–ÏÙ­Š2J$289ddf9e-359e-43cd-89fe-438960311777
+m	java:S106&"+Replace this use of System.out by a logger.(ºõ¦¿8—ÏÙ­Š2J$d89fb696-9ef5-4be0-bd47-d938cb39844e
+l	java:S106+"+Replace this use of System.out by a logger.(®ì©.8˜ÏÙ­Š2J$6bd40a3f-b304-4b43-a44a-2885c473a64d
+m	java:S1065"+Replace this use of System.out by a logger.(İ‰†ü8›ÏÙ­Š2J$a8d0fabe-2eb2-460f-90bd-87d4e8ae508e

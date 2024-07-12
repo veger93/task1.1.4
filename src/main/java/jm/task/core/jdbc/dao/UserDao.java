@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 public interface UserDao {
-    void createUsersTable();
+    void createUsersTable() throws SQLException;
 
     void dropUsersTable() throws SQLException;
 
@@ -16,5 +16,6 @@ public interface UserDao {
 
     List<User> getAllUsers() throws SQLException;
 
-    void cleanUsersTable();
+    void cleanUsersTable() throws SQLException;
+
 }
